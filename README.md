@@ -109,3 +109,7 @@ Streamlit Dashboard
 
 ```bash
 pip install -r requirements.txt
+
+# Live Demo
+
+https://amazon-book-reviews-clustering-ayciweghgchjtvcqmdymsd.streamlit.app/

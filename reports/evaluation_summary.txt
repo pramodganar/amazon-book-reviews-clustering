@@ -1,0 +1,7 @@
+MODEL EVALUATION SUMMARY
+========================
+
+           Model  Silhouette_Score  Davies_Bouldin_Index  Calinski_Harabasz_Score
+0         KMeans          0.722998              0.570194             28163.370450
+1  Agglomerative          0.754363              0.502509             25936.237828
+2         DBSCAN          0.886009              0.399186              1079.118242

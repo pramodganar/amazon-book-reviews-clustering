@@ -1,0 +1,24 @@
+
+
+AMAZON BOOK REVIEWS CLUSTERING PROJECT
+=====================================
+
+PROJECT OBJECTIVE:
+Cluster customer reviews using NLP and unsupervised learning.
+
+KEY ACHIEVEMENTS:
+- Implemented TF-IDF vectorization
+- Applied PCA dimensionality reduction
+- Compared KMeans, Agglomerative and DBSCAN
+- Generated business-level customer segments
+- Built customer review clusters
+
+BUSINESS VALUE:
+- Customer segmentation
+- Review behavior understanding
+- Recommendation improvement
+- Review pattern discovery
+
+BEST MODEL:
+KMeans Clustering
+
